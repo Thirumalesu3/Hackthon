@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cousre selection and Teacher Assignment System</title>
+</head>
+<body>
+    <h1>Course selection and Teacher Assignment System :</h1>
+    <form action="/submit_selection" method="POST">
+        <label for="course">Course:</label>
+        <select name="course" id="course">
+            <option value="course1">Course 1</option>
+            <option value="course2">Course 2</option>
+            <option value="course2">Course 3</option>
+            <option value="course2">Course 4</option>
+            <option value="course2">Course 5</option>
+            <option value="course2">Course 6</option>
+            <option value="course2">Course 7</option>
+            <option value="course2">Course 8</option>
+
+            </select>
+        <br>
+        
+        <label for="teacher">Teacher:</label>
+        <select name="teacher" id="teacher">
+            <option value="teacher1">Teacher 1</option>
+            <option value="teacher2">Teacher 2</option>
+            <option value="teacher2">Teacher 3</option>
+            <option value="teacher2">Teacher 4</option>
+            <option value="teacher2">Teacher 5</option>
+            <option value="teacher2">Teacher 6</option>
+            <option value="teacher2">Teacher 7</option>
+            <option value="teacher2">Teacher 8</option>
+            </select>
+        <br>
+        <label for="course">Course:</label>
+        <select name="course" id="course">
+            <option value="course1">Course 1</option>
+            <option value="course2">Course 2</option>
+            <option value="course2">Course 3</option>
+            <option value="course2">Course 4</option>
+            <option value="course2">Course 5</option>
+            <option value="course2">Course 6</option>
+            <option value="course2">Course 7</option>
+            <option value="course2">Course 8</option>
+
+            </select>
+        <br><label for="teacher">Teacher:</label>
+        <select name="teacher" id="teacher">
+            <option value="teacher1">Teacher 1</option>
+            <option value="teacher2">Teacher 2</option>
+            <option value="teacher2">Teacher 3</option>
+            <option value="teacher2">Teacher 4</option>
+            <option value="teacher2">Teacher 5</option>
+            <option value="teacher2">Teacher 6</option>
+            <option value="teacher2">Teacher 7</option>
+            <option value="teacher2">Teacher 8</option>
+            </select>
+        <br>
+        <label for="course">Course:</label>
+        <select name="course" id="course">
+            <option value="course1">Course 1</option>
+            <option value="course2">Course 2</option>
+            <option value="course2">Course 3</option>
+            <option value="course2">Course 4</option>
+            <option value="course2">Course 5</option>
+            <option value="course2">Course 6</option>
+            <option value="course2">Course 7</option>
+            <option value="course2">Course 8</option>
+
+            </select>
+        <br>
+        <label for="teacher">Teacher:</label>
+        <select name="teacher" id="teacher">
+            <option value="teacher1">Teacher 1</option>
+            <option value="teacher2">Teacher 2</option>
+            <option value="teacher2">Teacher 3</option>
+            <option value="teacher2">Teacher 4</option>
+            <option value="teacher2">Teacher 5</option>
+            <option value="teacher2">Teacher 6</option>
+            <option value="teacher2">Teacher 7</option>
+            <option value="teacher2">Teacher 8</option>
+            </select>
+        <br>
+        <label for="course">Course:</label>
+        <select name="course" id="course">
+            <option value="course1">Course 1</option>
+            <option value="course2">Course 2</option>
+            <option value="course2">Course 3</option>
+            <option value="course2">Course 4</option>
+            <option value="course2">Course 5</option>
+            <option value="course2">Course 6</option>
+            <option value="course2">Course 7</option>
+            <option value="course2">Course 8</option>
+
+            </select>
+        <br>
+        <label for="teacher">Teacher:</label>
+        <select name="teacher" id="teacher">
+            <option value="teacher1">Teacher 1</option>
+            <option value="teacher2">Teacher 2</option>
+            <option value="teacher2">Teacher 3</option>
+            <option value="teacher2">Teacher 4</option>
+            <option value="teacher2">Teacher 5</option>
+            <option value="teacher2">Teacher 6</option>
+            <option value="teacher2">Teacher 7</option>
+            <option value="teacher2">Teacher 8</option>
+            </select>
+        <br>
+        <label for="course">Course:</label>
+        <select name="course" id="course">
+            <option value="course1">Course 1</option>
+            <option value="course2">Course 2</option>
+            <option value="course2">Course 3</option>
+            <option value="course2">Course 4</option>
+            <option value="course2">Course 5</option>
+            <option value="course2">Course 6</option>
+            <option value="course2">Course 7</option>
+            <option value="course2">Course 8</option>
+
+            </select>
+        <br>
+        <label for="teacher">Teacher:</label>
+        <select name="teacher" id="teacher">
+            <option value="teacher1">Teacher 1</option>
+            <option value="teacher2">Teacher 2</option>
+            <option value="teacher2">Teacher 3</option>
+            <option value="teacher2">Teacher 4</option>
+            <option value="teacher2">Teacher 5</option>
+            <option value="teacher2">Teacher 6</option>
+            <option value="teacher2">Teacher 7</option>
+            <option value="teacher2">Teacher 8</option>
+            </select>
+        <br>
+        <label for="course">Course:</label>
+        <select name="course" id="course">
+            <option value="course1">Course 1</option>
+            <option value="course2">Course 2</option>
+            <option value="course2">Course 3</option>
+            <option value="course2">Course 4</option>
+            <option value="course2">Course 5</option>
+            <option value="course2">Course 6</option>
+            <option value="course2">Course 7</option>
+            <option value="course2">Course 8</option>
+
+            </select>
+        <br><label for="teacher">Teacher:</label>
+        <select name="teacher" id="teacher">
+            <option value="teacher1">Teacher 1</option>
+            <option value="teacher2">Teacher 2</option>
+            <option value="teacher2">Teacher 3</option>
+            <option value="teacher2">Teacher 4</option>
+            <option value="teacher2">Teacher 5</option>
+            <option value="teacher2">Teacher 6</option>
+            <option value="teacher2">Teacher 7</option>
+            <option value="teacher2">Teacher 8</option>
+            </select>
+        <br>
+        <!-- Font Awesome Icon Library -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <style>
+        .checked {
+        color: rgb(255, 179, 0);
+        }
+        </style>
+        <h3>Teacher1 Rating</h3>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <br>
+        <h3>Teacher2 Rating</h3>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <br>
+        <h3>Teacher3 Rating</h3>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <br>
+        <h3>Teacher4 Rating</h3>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <br>
+        <h3>Teacher5 Rating</h3>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <br>
+        <h3>Teacher6 Rating</h3>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <br>
+        <h3>Teacher7 Rating</h3>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <br>
+        <h3>Teacher8 Rating</h3>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star "></span>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
